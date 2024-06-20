@@ -21,7 +21,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/aman2611">P2P Infosystem</a>.</li>
-  <li>🧐 Learning about <strong>React Native</strong>, <strong></strong>, and a bit of <strong>ML</strong>.</li>
+  <li>🧐 Learning about <strong>React Native</strong>, <strong>Flutter</strong>, and a bit of <strong>Blockchain</strong>.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/aman2611">Github</a>.</li>
   <li>💬 Ping me about <strong>react, nextjs</strong>.</li>
   <li>📙 Check out my <a href="https://drive.google.com/file/d/1MyPmMc746jP1RXaPt8kMMPpc-qX5tYbz/view?usp=sharing">resume</a>.</li>
