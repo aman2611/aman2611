@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Aman</h1>
 <p>I'm currently a software engineer at <strong><a href="/">P2P Infosystem</a></strong> based in New Delhi. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2611&label=Profile%20views&color=0e75b6&style=flat" alt="aman2611" /> </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -10,7 +9,7 @@
   <li>🧐 Learning about <strong>React Native</strong>, <strong></strong>, and a bit of <strong>ML</strong>.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/aman2611">Github</a>.</li>
   <li>💬 Ping me about <strong>react, nextjs</strong>.</li>
-  <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+  <li>📙 Check out my <a href="https://drive.google.com/file/d/1MyPmMc746jP1RXaPt8kMMPpc-qX5tYbz/view?usp=sharing">resume</a>.</li>
   <li>🎉 Fun Fact: I love BTS and Anime.</li>
 </ul>
 
@@ -26,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman2611&show_icons=true&locale=en&layout=compact" alt="aman2611" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman2611&show_icons=true&locale=en" alt="aman2611" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2611&label=Profile%20views&color=0e75b6&style=flat" alt="aman2611" /> </p>
