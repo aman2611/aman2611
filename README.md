@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aman</h1>
-<p>I'm currently a software engineer at <strong><a href="/">P2P Infosystem</a></strong> based in New Delhi. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
+<p>I'm currently a software engineer at <strong><a href="#">P2P Infosystem</a></strong> based in New Delhi. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 
@@ -20,7 +20,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/aman2611">P2P Infosystem</a>.</li>
+  <li>🔭 I’m currently working on <a href="#">P2P Infosystem</a>.</li>
   <li>🧐 Learning about <strong>React Native</strong>, and a bit of <strong>Blockchain</strong>.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/aman2611">Github</a>.</li>
   <li>💬 Ping me about <strong>react, nextjs</strong>.</li>
