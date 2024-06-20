@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://amanprakash.vercel.app/>
-    <img src="https://img.shields.io/badge/-portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;"  alt="Website Badge">
+    <img src="https://img.shields.io/badge/-portfolio-FF5733.svg?style=flat-square&amp;"  alt="Website Badge">
   </a> 
   <a href="mailto:amanprakash2611@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge">
