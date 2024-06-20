@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p>I'm currently a software engineer at <strong><a href="/">P2P Infosystem</a></strong> based in New Delhi. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2611&label=Profile%20views&color=0e75b6&style=flat" alt="aman2611" /> </p>
 
