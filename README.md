@@ -5,16 +5,16 @@
 
 <p>
   <a href="https://amanprakash.vercel.app/>
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  alt="Website Badge">
+    <img src="https://img.shields.io/badge/-portfolio-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;"  alt="Website Badge">
   </a> 
   <a href="mailto:amanprakash2611@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge">
   </a> 
   <a href="https://x.com/Aman_jsx">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
+    <img src="https://img.shields.io/badge/-X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
   </a> 
   <a href="https://www.linkedin.com/in/amanprakash2611/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
