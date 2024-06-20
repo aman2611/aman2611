@@ -2,6 +2,21 @@
 <p>I'm currently a software engineer at <strong><a href="/">P2P Infosystem</a></strong> based in New Delhi. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
+
+<p>
+  <a href="https://amanprakash.vercel.app/>
+    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  alt="Website Badge">
+  </a> 
+  <a href="mailto:amanprakash2611@gmail.com>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge">
+  </a> 
+  <a href="https://x.com/Aman_jsx">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
+  </a> 
+  <a href="https://www.linkedin.com/in/amanprakash2611/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -12,12 +27,6 @@
   <li>📙 Check out my <a href="https://drive.google.com/file/d/1MyPmMc746jP1RXaPt8kMMPpc-qX5tYbz/view?usp=sharing">resume</a>.</li>
   <li>🎉 Fun Fact: I love BTS and Anime.</li>
 </ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aman_jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_jsx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amanprakash11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanprakash11" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
