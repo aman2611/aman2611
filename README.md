@@ -24,7 +24,7 @@
   <li>🧐 Learning about <strong>React Native</strong>, and a bit of <strong>Blockchain</strong>.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/aman2611">Github</a>.</li>
   <li>💬 Ping me about <strong>react, nextjs</strong>.</li>
-  <li>📙 Check out my <a href="https://drive.google.com/file/d/1MyPmMc746jP1RXaPt8kMMPpc-qX5tYbz/view?usp=sharing">resume</a>.</li>
+  <li>📙 Check out my <a href="https://drive.google.com/file/d/1bKPIlFjGa7__9zJ-Gqq9wrBimmKIJtQv/view?usp=sharing">resume</a>.</li>
   <li>🎉 Fun Fact: I love BTS and Anime.</li>
 </ul>
 
