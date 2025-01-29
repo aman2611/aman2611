@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aman</h1>
-<p>I'm currently a software engineer at <strong><a href="#">P2P Infosystem</a></strong> based in New Delhi. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
+<p>I'm currently a software engineer at <strong><a href="https://www.cognecto.com/">Cognecto</a></strong> based in Bangalore. I am working on some side projects, learning korean language, and waiting for BTS to come back from military.</p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 
