@@ -7,9 +7,9 @@ Currently, I’m exploring **React Native** and **Blockchain technologies**, whi
 ---
 
 ### 🌐 **Connect with Me**
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://amanprakash.vercel.app)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanprakash2611@gmail.com)  
-[![X (Twitter)](https://img.shields.io/badge/-X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Aman_jsx)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://amanprakash.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanprakash2611@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/-X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Aman_jsx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanprakash2611/)
 
 ---
