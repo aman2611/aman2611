@@ -21,7 +21,7 @@ Currently, I’m exploring **React Native** and **Blockchain technologies**, whi
 - 🧠 Learning **React Native** and exploring the fundamentals of **Blockchain development**.
 - 💻 Most of my projects are available on [GitHub](https://github.com/aman2611).
 - 💬 Feel free to reach out for discussions on **React**, **Next.js**, or **Frontend Architecture**.
-- 📄 Here’s my [Resume](https://drive.google.com/file/d/1bKPIlFjGa7__9zJ-Gqq9wrBimmKIJtQv/view?usp=sharing).
+- 📄 Here’s my [Resume](https://drive.google.com/file/d/1KdTPIUze3o2v-ndeWWzXAyXAC4hCamzW/view?usp=sharing).
 - 🎯 Fun Fact: I’m a huge **BTS** fan and enjoy watching **anime**.
 
 ---
