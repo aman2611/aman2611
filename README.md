@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aman
+[# Hi 👋, I'm Aman
 
 I'm a **Software Engineer** at [Cognecto](https://www.cognecto.com/) based in **Bangalore**.  
 I love building scalable front-end solutions, working on side projects, learning new technologies, and occasionally studying Korean while waiting for BTS to return from military service.  
@@ -51,3 +51,4 @@ I love building scalable front-end solutions, working on side projects, learning
 ---
 
 🍌 **Fun Reminder:** Don't forget to get some Potassium! 🍌
+](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg)
